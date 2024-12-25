@@ -5,3 +5,5 @@ A simple to-do list application built with React, Spring Boot, Spring Data JPA, 
 <img src="./assets/image.png" />
 
 ### Demo
+
+<img src="./assets/spring-boot-todo.gif">
